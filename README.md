@@ -3,3 +3,5 @@
 2.color-flipper-https://sarthaktuli7.github.io/javascript-projects/color-flipper
 
 3.Reviews-      https://sarthaktuli7.github.io/javascript-projects/reviews/
+
+4.Navbar-       https://sarthaktuli7.github.io/javascript-projects/navbar
