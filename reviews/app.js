@@ -6,7 +6,7 @@ const reviews = [
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
    text:
-    Best Teachers and teaching assistants provided by the institute. It organises several free of cost competitions, workshops for students and universities. If you want to grab a good job , hone your coding skills at Coding Blocks.
+    "Best Teachers and teaching assistants provided by the institute. It organises several free of cost competitions, workshops for students and universities. If you want to grab a good job , hone your coding skills at Coding Blocks."
   },
   {
     id: 2,
@@ -15,8 +15,7 @@ const reviews = [
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg",
     text:
-     The first live course I did in programming which made me love coding.
-I took the data structures with java course that helped me to build a very strong foundation in programming and I was able to crack 4+ product based companies. Thanks a lot
+     "The first live course I did in programming which made me love coding.I took the data structures with java course that helped me to build a very strong foundation in programming and I was able to crack 4+ product based companies. Thanks a lot"
   },
   {
     id: 3,
@@ -25,7 +24,7 @@ I took the data structures with java course that helped me to build a very stron
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
     text:
-     The work culture in Microsoft is great. The working hours isn't time bound. Friendly and helpful colleagues.
+     "The work culture in Microsoft is great. The working hours isn't time bound. Friendly and helpful colleagues."
   },
   {
     id: 4,
@@ -34,8 +33,7 @@ I took the data structures with java course that helped me to build a very stron
     img:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
     text:
-     Great learning opportunity, Flexibility of work
-Location-based project distribution, which limits one to work from a particular location.
+     "Great learning opportunity, Flexibility of work Location-based project distribution, which limits one to work from a particular location."
   },
 ];
 // select items
