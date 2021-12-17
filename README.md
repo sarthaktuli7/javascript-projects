@@ -5,3 +5,5 @@
 3.Reviews-      https://sarthaktuli7.github.io/javascript-projects/reviews/
 
 4.Navbar-       https://sarthaktuli7.github.io/javascript-projects/navbar
+
+5.Video-        https://sarthaktuli7.github.io/javascript-projects/video/
