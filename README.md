@@ -9,3 +9,5 @@
 5.Video-        https://sarthaktuli7.github.io/javascript-projects/video/
 
 6.Game-         https://sarthaktuli7.github.io/javascript-projects/css_game/
+
+7.Timer-         https://sarthaktuli7.github.io/javascript-projects/Timer/
